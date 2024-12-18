@@ -23,7 +23,7 @@ compose-foundation = { module = "androidx.compose.foundation:foundation", versio
 compose-material3 = { module = "androidx.compose.material3:material3", version.ref = "compose-material3" }
 org-jetbrains-kotlinx-serialization-json = "org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.0"
 org-jetbrains-kotlinx-datetime = "org.jetbrains.kotlinx:kotlinx-datetime:0.4.1"
-io-github-kevinnzou-webview = "io.github.kevinnzou:compose-webview-multiplatform:1.9.20"
+io-github-kevinnzou-webview = "io.github.kevinnzou:compose-webview-multiplatform:1.9.40"
 
 # plugin dependencies
 kotlinGradlePlugin = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin", version.ref = "kotlin" }
